@@ -2,8 +2,8 @@
 
 # 👋 Hi! I'm Thiago Raia
 
-I'm a Software Development student focused on building modern applications using **TypeScript**, **Expo Go** for the frontend, and **NestJS** with **TypeORM** for the backend. I have experience with **MongoDB**, **MySQL Server**, and **Supabase**, and deploy projects on **Vercel** and **Render**.  
-I'm also proficient with **Git** and team version control, following best practices in development.
+I'm a Systems Analysis and Development student at Fatec Indaiatuba focused on building modern applications currently using **TypeScript** with **Expo Go** for the frontend, **NestJS** with **TypeORM** for the backend and **MongoDB**, **MySQL Server**, and **Supabase** for the databases, deploying projects on **Vercel** and **Render**.
+I'm also practicing using **Git** for version control, learning about development and documentation best practices.
 
 ---
 
@@ -32,15 +32,15 @@ I'm also proficient with **Git** and team version control, following best practi
 
 ### 📱 [Plenitude Pilates](https://github.com/ThiagoRaia1/Pi-5o-Semestre)
 Integrative project for the fifth semester of college. Complete class scheduling system for students at a Pilates studio. 
-**Tech:** Expo Go, NestJS, MongoDB
+**Techs:** Expo Go, NestJS, MongoDB
 
 ### 📦 [Lumegal Inventory Control](https://github.com/ThiagoRaia1/ControleEstoqueLumegal)
 Customized **inventory control** system developed for the company Lumegal, focusing on warehouse and supply items. 
-**Tech:** Expo Go, NestJS, TypeORM, Supabase
+**Techs:** Expo Go, NestJS, TypeORM, Supabase
 
 ### 🧠 [AI Teacher](https://github.com/ThiagoRaia1/TrabalhoConclusaoCurso)
 Online learning platform that allows you to create personalized roadmaps with AI and generate quizzes based on notes and studied content. Integrates concepts such as Pomodoro and active learning techniques.
-**Technologies**: Expo Go, NestJS, TypeORM, MongoDB
+**Techs**: Expo Go, NestJS, TypeORM, MongoDB
 
 ---
 
@@ -54,9 +54,8 @@ Online learning platform that allows you to create personalized roadmaps with AI
 
 # 👋 Olá! Eu sou o Thiago Raia
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de aplicações modernas utilizando **TypeScript**, **Expo Go** no frontend e **NestJS** com **TypeORM** no backend. Tenho experiência com bancos de dados como **MongoDB**, **MySQL Server** e **Supabase**, além de deploy contínuo em plataformas como **Vercel** e **Render**. 
-
-Também possuo bom domínio do **Git**, seguindo boas práticas de desenvolvimento e organização de código.
+Sou aluno do curso de Análise e Desenvolvimento de Sistemas da Fatec Indaiatuba, com foco na construção de aplicações modernas, atualmente utilizando **TypeScript** com **Expo Go** para o frontend, **NestJS** com **TypeORM** para o backend e **MongoDB**, **MySQL Server** e **Supabase** para os bancos de dados, implantando projetos em **Vercel** e **Render**.
+Também estou praticando o uso do **Git** para controle de versão, aprendendo sobre as melhores práticas de desenvolvimento e documentação.
 
 ---
 
