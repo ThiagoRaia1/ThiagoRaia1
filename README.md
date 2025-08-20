@@ -46,8 +46,8 @@ Online learning platform that allows you to create personalized roadmaps with AI
 
 ## 📬 Contact
 
-- 📧 E-mail: thiagoraia2004@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/thiago-raia-de-moura-014058362](https://br.linkedin.com/in/thiago-raia-de-moura-014058362)
+- 📧 [E-mail](thiagoraia2004@gmail.com)  
+- 💼 [LinkedIn](https://br.linkedin.com/in/thiago-raia-de-moura-014058362)
 
 ---
 📍 PT-BR
@@ -98,5 +98,5 @@ Plataforma de estudos online que permite a criação de **roadmaps personalizado
 
 ## 📬 Contato
 
-- 📧 E-mail: thiagoraia2004@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/thiago-raia-de-moura-014058362](https://br.linkedin.com/in/thiago-raia-de-moura-014058362)
+- 📧 [E-mail](thiagoraia2004@gmail.com)  
+- 💼 [LinkedIn](https://br.linkedin.com/in/thiago-raia-de-moura-014058362)
